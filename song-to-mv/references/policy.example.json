@@ -1,0 +1,15 @@
+{
+  "bars_per_shot": {
+    "intro": 4,
+    "verse": 2,
+    "prechorus": 1,
+    "chorus": 2,
+    "bridge": 4,
+    "interlude": 4,
+    "outro": 4
+  },
+  "chorus_final_factor": 0.5,
+  "max_shot_seconds": 8.0,
+  "min_shot_seconds": 1.2,
+  "snap_tolerance": 0.35
+}

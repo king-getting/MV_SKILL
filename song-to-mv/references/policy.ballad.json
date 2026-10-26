@@ -1,0 +1,16 @@
+{
+  "anchor": "line",
+  "lines_per_shot": {
+    "intro": 0,
+    "verse": 2,
+    "prechorus": 1,
+    "chorus": 1,
+    "bridge": 1,
+    "interlude": 0,
+    "outro": 1
+  },
+  "max_shot_seconds": 10.0,
+  "min_shot_seconds": 1.5,
+  "lead_in_seconds": 0.15,
+  "chorus_final_factor": 1.0
+}

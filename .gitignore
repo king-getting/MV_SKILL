@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# 运行时产物：音频、歌词、成片都不要进仓库
+work/
+*.mp3
+*.wav
+*.flac
+*.m4a
+*.mp4
+*.mov
+
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
